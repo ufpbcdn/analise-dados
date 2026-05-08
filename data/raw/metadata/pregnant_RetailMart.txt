@@ -1,0 +1,21 @@
+Foreman (2016): ch06
+
+The metadata for each feature are the following:
+
+Account holder is Male/Female/Unknown by matching surname to census data.
+Account holder address is a home, apartment, or PO box.
+Recently purchased a pregnancy test
+Recently purchased birth control
+Recently purchased feminine hygiene products
+Recently purchased folic acid supplements
+Recently purchased prenatal vitamins
+Recently purchased prenatal yoga DVD
+Recently purchased body pillow
+Recently purchased ginger ale
+Recently purchased Sea-Bands
+Bought cigarettes regularly until recently, then stopped
+Recently purchased cigarettes
+Recently purchased smoking cessation products (gum, patch, etc.)
+Bought wine regularly until recently, then stopped
+Recently purchased wine
+Recently purchased maternity clothing

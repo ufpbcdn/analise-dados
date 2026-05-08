@@ -1,0 +1,1001 @@
+data,regiao,produto,canal,quantidade,preco_unitario,faturamento
+2025-01-01,Nordeste,Monitor,E-commerce,1,129.9,129.9
+2025-01-02,Centro-Oeste,Cadeira,E-commerce,6,89.9,539.4000000000001
+2025-01-03,Sul,Teclado,E-commerce,3,129.9,389.70000000000005
+2025-01-04,Sudeste,Headset,Marketplace,6,2499.9,14999.400000000001
+2025-01-05,Nordeste,Notebook,E-commerce,6,89.9,539.4000000000001
+2025-01-06,Nordeste,Headset,Marketplace,1,89.9,89.9
+2025-01-07,Norte,Cadeira,Marketplace,4,399.9,1599.6
+2025-01-08,Sul,Cadeira,Loja física,5,129.9,649.5
+2025-01-09,Sudeste,Notebook,Marketplace,7,399.9,2799.2999999999997
+2025-01-10,Sul,Mouse,Loja física,5,89.9,449.5
+2025-01-11,Norte,Notebook,Marketplace,5,49.9,249.5
+2025-01-12,Centro-Oeste,Monitor,E-commerce,2,89.9,179.8
+2025-01-13,Sul,Teclado,Marketplace,1,399.9,399.9
+2025-01-14,Nordeste,Mouse,Marketplace,7,129.9,909.3000000000001
+2025-01-15,Nordeste,Notebook,Marketplace,4,2499.9,9999.6
+2025-01-16,Nordeste,Headset,E-commerce,2,2499.9,4999.8
+2025-01-17,Nordeste,Mouse,Loja física,3,129.9,389.70000000000005
+2025-01-18,Sudeste,Mouse,Loja física,4,2499.9,9999.6
+2025-01-19,Sudeste,Notebook,E-commerce,6,2499.9,14999.400000000001
+2025-01-20,Nordeste,Mouse,Loja física,4,399.9,1599.6
+2025-01-21,Sudeste,Headset,E-commerce,4,129.9,519.6
+2025-01-22,Nordeste,Cadeira,Loja física,5,899.9,4499.5
+2025-01-23,Nordeste,Mouse,Marketplace,4,49.9,199.6
+2025-01-24,Nordeste,Cadeira,E-commerce,6,49.9,299.4
+2025-01-25,Sudeste,Headset,Marketplace,6,2499.9,14999.400000000001
+2025-01-26,Sul,Notebook,Loja física,1,49.9,49.9
+2025-01-27,Nordeste,Teclado,Marketplace,4,129.9,519.6
+2025-01-28,Sudeste,Mouse,Marketplace,5,129.9,649.5
+2025-01-29,Sudeste,Teclado,E-commerce,0,89.9,0.0
+2025-01-30,Norte,Headset,E-commerce,3,89.9,269.70000000000005
+2025-01-31,Sudeste,Mouse,E-commerce,3,49.9,149.7
+2025-02-01,Nordeste,Cadeira,Loja física,5,899.9,4499.5
+2025-02-02,Norte,Monitor,E-commerce,1,89.9,89.9
+2025-02-03,Centro-Oeste,Teclado,E-commerce,1,89.9,89.9
+2025-02-04,Centro-Oeste,Mouse,Loja física,6,129.9,779.4000000000001
+2025-02-05,Sul,Teclado,E-commerce,6,899.9,5399.4
+2025-02-06,Nordeste,Mouse,Loja física,2,2499.9,4999.8
+2025-02-07,Norte,Notebook,Loja física,5,49.9,249.5
+2025-02-08,Sudeste,Cadeira,Loja física,4,89.9,359.6
+2025-02-09,Sudeste,Teclado,Marketplace,7,899.9,6299.3
+2025-02-10,Nordeste,Monitor,E-commerce,5,899.9,4499.5
+2025-02-11,Sudeste,Monitor,Marketplace,2,49.9,99.8
+2025-02-12,Norte,Headset,E-commerce,6,899.9,5399.4
+2025-02-13,Centro-Oeste,Mouse,Loja física,5,899.9,4499.5
+2025-02-14,Nordeste,Teclado,E-commerce,5,899.9,4499.5
+2025-02-15,Sudeste,Headset,E-commerce,6,89.9,539.4000000000001
+2025-02-16,Nordeste,Teclado,Loja física,2,49.9,99.8
+2025-02-17,Sudeste,Mouse,E-commerce,6,899.9,5399.4
+2025-02-18,Sudeste,Monitor,Loja física,1,899.9,899.9
+2025-02-19,Nordeste,Notebook,E-commerce,4,89.9,359.6
+2025-02-20,Centro-Oeste,Monitor,E-commerce,6,49.9,299.4
+2025-02-21,Sul,Headset,Loja física,2,129.9,259.8
+2025-02-22,Centro-Oeste,Cadeira,Loja física,3,89.9,269.70000000000005
+2025-02-23,Centro-Oeste,Notebook,E-commerce,1,49.9,49.9
+2025-02-24,Sudeste,Headset,E-commerce,3,899.9,2699.7
+2025-02-25,Centro-Oeste,Mouse,Loja física,7,49.9,349.3
+2025-02-26,Norte,Notebook,Marketplace,6,49.9,299.4
+2025-02-27,Nordeste,Headset,Loja física,1,2499.9,2499.9
+2025-02-28,Norte,Mouse,E-commerce,4,49.9,199.6
+2025-03-01,Nordeste,Monitor,Marketplace,6,129.9,779.4000000000001
+2025-03-02,Nordeste,Cadeira,Loja física,4,49.9,199.6
+2025-03-03,Nordeste,Mouse,Loja física,5,129.9,649.5
+2025-03-04,Sul,Teclado,Loja física,3,899.9,2699.7
+2025-03-05,Nordeste,Mouse,Loja física,1,129.9,129.9
+2025-03-06,Nordeste,Mouse,Loja física,4,899.9,3599.6
+2025-03-07,Sudeste,Cadeira,E-commerce,2,899.9,1799.8
+2025-03-08,Nordeste,Teclado,Loja física,4,129.9,519.6
+2025-03-09,Sul,Headset,E-commerce,2,89.9,179.8
+2025-03-10,Norte,Headset,Marketplace,6,399.9,2399.3999999999996
+2025-03-11,Centro-Oeste,Mouse,Marketplace,1,49.9,49.9
+2025-03-12,Sul,Teclado,E-commerce,4,2499.9,9999.6
+2025-03-13,Nordeste,Teclado,Loja física,7,399.9,2799.2999999999997
+2025-03-14,Norte,Cadeira,E-commerce,4,49.9,199.6
+2025-03-15,Sul,Monitor,E-commerce,7,49.9,349.3
+2025-03-16,Sul,Headset,E-commerce,1,899.9,899.9
+2025-03-17,Sul,Cadeira,Loja física,4,49.9,199.6
+2025-03-18,Sul,Notebook,Marketplace,2,2499.9,4999.8
+2025-03-19,Norte,Headset,E-commerce,4,49.9,199.6
+2025-03-20,Nordeste,Cadeira,Loja física,3,129.9,389.70000000000005
+2025-03-21,Norte,Headset,E-commerce,6,399.9,2399.3999999999996
+2025-03-22,Sul,Monitor,E-commerce,5,129.9,649.5
+2025-03-23,Sudeste,Notebook,,2,2499.9,4999.8
+2025-03-24,Nordeste,Monitor,E-commerce,3,49.9,149.7
+2025-03-25,Norte,Notebook,E-commerce,7,2499.9,17499.3
+2025-03-26,Nordeste,Mouse,Loja física,6,899.9,5399.4
+2025-03-27,Nordeste,Cadeira,E-commerce,1,129.9,129.9
+2025-03-28,Sul,Notebook,E-commerce,2,129.9,259.8
+2025-03-29,Sudeste,Monitor,Loja física,5,89.9,449.5
+2025-03-30,Centro-Oeste,Headset,Loja física,6,49.9,299.4
+2025-03-31,Sudeste,Notebook,E-commerce,7,899.9,6299.3
+2025-04-01,Norte,Cadeira,Loja física,5,129.9,649.5
+2025-04-02,Sul,Notebook,E-commerce,1,129.9,129.9
+2025-04-03,Sul,Teclado,Loja física,1,899.9,899.9
+2025-04-04,Sudeste,Headset,Loja física,7,2499.9,17499.3
+2025-04-05,Sul,Cadeira,Loja física,2,2499.9,4999.8
+2025-04-06,Sudeste,Cadeira,Marketplace,7,49.9,349.3
+2025-04-07,Sudeste,Mouse,Marketplace,4,89.9,359.6
+2025-04-08,Sudeste,Monitor,Marketplace,1,129.9,129.9
+2025-04-09,Norte,Mouse,E-commerce,6,89.9,539.4000000000001
+2025-04-10,Norte,Cadeira,Loja física,4,2499.9,9999.6
+2025-04-11,Norte,Headset,E-commerce,3,2499.9,7499.700000000001
+2025-04-12,Sudeste,Notebook,E-commerce,5,399.9,1999.5
+2025-04-13,Nordeste,Notebook,Marketplace,4,49.9,199.6
+2025-04-14,Sudeste,Headset,Loja física,5,399.9,1999.5
+2025-04-15,Centro-Oeste,Cadeira,E-commerce,7,399.9,2799.2999999999997
+2025-04-16,Nordeste,Notebook,Loja física,4,399.9,1599.6
+2025-04-17,Sudeste,Notebook,Loja física,7,49.9,349.3
+2025-04-18,Sul,Notebook,E-commerce,3,49.9,149.7
+2025-04-19,Nordeste,Monitor,E-commerce,1,899.9,899.9
+2025-04-20,Norte,Monitor,E-commerce,3,89.9,269.70000000000005
+2025-04-21,Nordeste,Teclado,E-commerce,1,89.9,89.9
+2025-04-22,Nordeste,Mouse,E-commerce,7,899.9,6299.3
+2025-04-23,Centro-Oeste,Headset,E-commerce,1,899.9,899.9
+2025-04-24,Sul,Headset,Marketplace,5,2499.9,12499.5
+2025-04-25,Sudeste,Headset,Marketplace,6,399.9,2399.3999999999996
+2025-04-26,Sul,Teclado,E-commerce,3,899.9,2699.7
+2025-04-27,Sul,Monitor,Loja física,4,129.9,519.6
+2025-04-28,Nordeste,Cadeira,E-commerce,3,89.9,269.70000000000005
+2025-04-29,Centro-Oeste,Cadeira,E-commerce,5,899.9,4499.5
+2025-04-30,Sudeste,Teclado,Loja física,1,129.9,129.9
+2025-05-01,Sul,Cadeira,Marketplace,5,129.9,649.5
+2025-05-02,Centro-Oeste,Headset,Loja física,2,129.9,259.8
+2025-05-03,Nordeste,Mouse,Marketplace,2,2499.9,4999.8
+2025-05-04,Norte,Notebook,E-commerce,4,2499.9,9999.6
+2025-05-05,Nordeste,Monitor,E-commerce,5,129.9,649.5
+2025-05-06,Sudeste,Monitor,E-commerce,7,2499.9,17499.3
+2025-05-07,Sul,Teclado,Marketplace,4,399.9,1599.6
+2025-05-08,Sul,Monitor,E-commerce,7,129.9,909.3000000000001
+2025-05-09,Norte,Headset,E-commerce,4,399.9,1599.6
+2025-05-10,Sudeste,Cadeira,Loja física,2,399.9,799.8
+2025-05-11,Sudeste,Headset,E-commerce,4,129.9,519.6
+2025-05-12,Nordeste,Teclado,Loja física,2,89.9,179.8
+2025-05-13,Norte,Headset,E-commerce,1,129.9,129.9
+2025-05-14,Nordeste,Cadeira,E-commerce,7,129.9,909.3000000000001
+2025-05-15,Centro-Oeste,Mouse,E-commerce,5,2499.9,12499.5
+2025-05-16,Nordeste,Teclado,Loja física,4,129.9,519.6
+2025-05-17,Sudeste,Mouse,Loja física,2,89.9,179.8
+2025-05-18,Sul,Notebook,E-commerce,3,2499.9,7499.700000000001
+2025-05-19,Nordeste,Mouse,Loja física,7,49.9,349.3
+2025-05-20,Centro-Oeste,Notebook,Loja física,4,49.9,199.6
+2025-05-21,Centro-Oeste,Notebook,Loja física,6,399.9,2399.3999999999996
+2025-05-22,Nordeste,Mouse,Marketplace,1,399.9,399.9
+2025-05-23,Sudeste,Teclado,E-commerce,1,89.9,89.9
+2025-05-24,Nordeste,Cadeira,E-commerce,3,899.9,2699.7
+2025-05-25,Nordeste,Headset,Loja física,2,49.9,99.8
+2025-05-26,Norte,Headset,Loja física,4,399.9,1599.6
+2025-05-27,Sudeste,Cadeira,E-commerce,7,49.9,349.3
+2025-05-28,Sudeste,Notebook,E-commerce,2,89.9,179.8
+2025-05-29,Norte,Notebook,Loja física,1,89.9,89.9
+2025-05-30,Nordeste,Teclado,Loja física,2,899.9,1799.8
+2025-05-31,Centro-Oeste,Monitor,Loja física,1,899.9,899.9
+2025-06-01,Nordeste,Mouse,E-commerce,2,2499.9,4999.8
+2025-06-02,Nordeste,Notebook,E-commerce,3,89.9,269.70000000000005
+2025-06-03,Sudeste,Headset,Loja física,5,399.9,1999.5
+2025-06-04,Centro-Oeste,Teclado,Loja física,3,49.9,149.7
+2025-06-05,Nordeste,Mouse,Loja física,3,129.9,389.70000000000005
+2025-06-06,Sudeste,Teclado,,5,899.9,4499.5
+2025-06-07,Sul,Mouse,Loja física,5,129.9,649.5
+2025-06-08,Nordeste,Mouse,E-commerce,4,399.9,1599.6
+2025-06-09,Sul,Cadeira,E-commerce,7,899.9,6299.3
+2025-06-10,Nordeste,Notebook,E-commerce,7,129.9,909.3000000000001
+2025-06-11,Sudeste,Teclado,Loja física,4,399.9,1599.6
+2025-06-12,Sudeste,Teclado,Loja física,3,49.9,149.7
+2025-06-13,Sudeste,Cadeira,E-commerce,3,399.9,1199.6999999999998
+2025-06-14,Norte,Headset,E-commerce,1,2499.9,2499.9
+2025-06-15,Sul,Headset,E-commerce,1,899.9,899.9
+2025-06-16,Nordeste,Notebook,E-commerce,7,89.9,629.3000000000001
+2025-06-17,Nordeste,Notebook,Loja física,4,49.9,199.6
+2025-06-18,Norte,Monitor,Marketplace,6,129.9,779.4000000000001
+2025-06-19,Sudeste,Cadeira,E-commerce,6,899.9,5399.4
+2025-06-20,Sudeste,Headset,Loja física,4,89.9,359.6
+2025-06-21,Norte,Mouse,Marketplace,1,399.9,399.9
+2025-06-22,Sudeste,Teclado,E-commerce,7,89.9,629.3000000000001
+2025-06-23,Nordeste,Notebook,E-commerce,7,899.9,6299.3
+2025-06-24,Sudeste,Teclado,E-commerce,1,899.9,899.9
+2025-06-25,Nordeste,Teclado,Marketplace,6,2499.9,14999.400000000001
+2025-06-26,Sudeste,Monitor,E-commerce,2,2499.9,4999.8
+2025-06-27,Nordeste,Headset,Loja física,2,89.9,179.8
+2025-06-28,Centro-Oeste,Notebook,Loja física,1,399.9,399.9
+2025-06-29,Nordeste,Teclado,Marketplace,2,89.9,179.8
+2025-06-30,Nordeste,Notebook,Loja física,5,899.9,4499.5
+2025-07-01,Norte,Mouse,E-commerce,4,899.9,3599.6
+2025-07-02,Centro-Oeste,Monitor,E-commerce,4,129.9,519.6
+2025-07-03,Sul,Mouse,E-commerce,1,2499.9,2499.9
+2025-07-04,Nordeste,Notebook,E-commerce,3,129.9,389.70000000000005
+2025-07-05,Sudeste,Notebook,Marketplace,6,49.9,299.4
+2025-07-06,Sul,Headset,Loja física,1,899.9,899.9
+2025-07-07,Sudeste,Teclado,Loja física,2,129.9,259.8
+2025-07-08,Sudeste,Teclado,Loja física,6,89.9,539.4000000000001
+2025-07-09,Nordeste,Mouse,Marketplace,3,2499.9,7499.700000000001
+2025-07-10,Norte,Monitor,E-commerce,2,2499.9,4999.8
+2025-07-11,Centro-Oeste,Cadeira,Loja física,7,399.9,2799.2999999999997
+2025-07-12,Centro-Oeste,Teclado,Marketplace,5,89.9,449.5
+2025-07-13,Sudeste,Headset,Marketplace,2,399.9,799.8
+2025-07-14,Nordeste,Mouse,Marketplace,5,129.9,649.5
+2025-07-15,Nordeste,Mouse,Marketplace,6,49.9,299.4
+2025-07-16,Sul,Cadeira,Loja física,5,89.9,449.5
+2025-07-17,Centro-Oeste,Headset,E-commerce,6,89.9,539.4000000000001
+2025-07-18,Centro-Oeste,Monitor,E-commerce,6,89.9,539.4000000000001
+2025-07-19,Sul,Headset,Marketplace,6,399.9,2399.3999999999996
+2025-07-20,Sudeste,Monitor,E-commerce,6,129.9,779.4000000000001
+2025-07-21,Norte,Headset,E-commerce,6,89.9,539.4000000000001
+2025-07-22,Nordeste,Headset,E-commerce,2,89.9,179.8
+2025-07-23,Centro-Oeste,Notebook,Loja física,6,2499.9,14999.400000000001
+2025-07-24,Sudeste,Mouse,E-commerce,2,49.9,99.8
+2025-07-25,Norte,Headset,Marketplace,6,2499.9,14999.400000000001
+2025-07-26,Norte,Cadeira,Marketplace,5,2499.9,12499.5
+2025-07-27,Sudeste,Headset,Loja física,7,49.9,349.3
+2025-07-28,Norte,Teclado,Loja física,6,129.9,779.4000000000001
+2025-07-29,Nordeste,Mouse,Loja física,3,2499.9,7499.700000000001
+2025-07-30,Sudeste,Teclado,E-commerce,6,129.9,779.4000000000001
+2025-07-31,Sudeste,Mouse,Marketplace,6,2499.9,14999.400000000001
+2025-08-01,Sudeste,Teclado,Loja física,5,899.9,4499.5
+2025-08-02,Nordeste,Headset,E-commerce,4,49.9,199.6
+2025-08-03,Sul,Headset,Marketplace,5,2499.9,12499.5
+2025-08-04,Nordeste,Notebook,E-commerce,3,899.9,2699.7
+2025-08-05,Nordeste,Cadeira,E-commerce,4,399.9,1599.6
+2025-08-06,Sul,Teclado,E-commerce,1,899.9,899.9
+2025-08-07,Sudeste,Monitor,E-commerce,1,89.9,89.9
+2025-08-08,Sul,Notebook,Loja física,3,2499.9,7499.700000000001
+2025-08-09,Sudeste,Teclado,E-commerce,5,899.9,4499.5
+2025-08-10,Sudeste,Teclado,E-commerce,2,129.9,259.8
+2025-08-11,Norte,Notebook,Marketplace,3,399.9,1199.6999999999998
+2025-08-12,Nordeste,Headset,E-commerce,7,2499.9,17499.3
+2025-08-13,Nordeste,Teclado,E-commerce,4,89.9,359.6
+2025-08-14,Nordeste,Headset,Loja física,4,899.9,3599.6
+2025-08-15,Centro-Oeste,Notebook,E-commerce,6,399.9,2399.3999999999996
+2025-08-16,Nordeste,Headset,Loja física,1,2499.9,2499.9
+2025-08-17,Centro-Oeste,Mouse,Loja física,4,399.9,1599.6
+2025-08-18,Sudeste,Monitor,E-commerce,3,89.9,269.70000000000005
+2025-08-19,Sul,Teclado,Marketplace,4,899.9,3599.6
+2025-08-20,Sudeste,Cadeira,Loja física,3,399.9,1199.6999999999998
+2025-08-21,Sudeste,Monitor,E-commerce,2,399.9,799.8
+2025-08-22,Sudeste,Headset,Marketplace,6,49.9,299.4
+2025-08-23,Nordeste,Teclado,Loja física,1,399.9,399.9
+2025-08-24,Sul,Headset,E-commerce,4,49.9,199.6
+2025-08-25,Nordeste,Mouse,E-commerce,3,899.9,2699.7
+2025-08-26,Norte,Notebook,E-commerce,5,2499.9,12499.5
+2025-08-27,Sudeste,Teclado,Loja física,1,2499.9,2499.9
+2025-08-28,Nordeste,Mouse,E-commerce,2,899.9,1799.8
+2025-08-29,Centro-Oeste,Mouse,E-commerce,3,899.9,2699.7
+2025-08-30,Centro-Oeste,Teclado,E-commerce,7,129.9,909.3000000000001
+2025-08-31,Centro-Oeste,Headset,Loja física,7,899.9,6299.3
+2025-09-01,Nordeste,Cadeira,E-commerce,6,399.9,2399.3999999999996
+2025-09-02,Norte,Mouse,Loja física,6,2499.9,14999.400000000001
+2025-09-03,Centro-Oeste,Monitor,E-commerce,2,89.9,179.8
+2025-09-04,Sudeste,Mouse,Loja física,2,2499.9,4999.8
+2025-09-05,Centro-Oeste,Cadeira,Marketplace,6,49.9,299.4
+2025-09-06,Centro-Oeste,Headset,E-commerce,4,2499.9,9999.6
+2025-09-07,Sul,Headset,Loja física,4,129.9,519.6
+2025-09-08,Nordeste,Monitor,Loja física,3,899.9,2699.7
+2025-09-09,Nordeste,Mouse,Loja física,5,899.9,4499.5
+2025-09-10,Sul,Headset,Marketplace,3,2499.9,7499.700000000001
+2025-09-11,Nordeste,Cadeira,Marketplace,5,89.9,449.5
+2025-09-12,Nordeste,Teclado,E-commerce,2,89.9,179.8
+2025-09-13,Sudeste,Notebook,E-commerce,1,129.9,129.9
+2025-09-14,Centro-Oeste,Notebook,E-commerce,3,49.9,149.7
+2025-09-15,Sudeste,Notebook,Marketplace,3,2499.9,7499.700000000001
+2025-09-16,Sudeste,Mouse,E-commerce,5,899.9,4499.5
+2025-09-17,Norte,Monitor,E-commerce,2,2499.9,4999.8
+2025-09-18,Sudeste,Headset,E-commerce,2,129.9,259.8
+2025-09-19,Centro-Oeste,Teclado,E-commerce,7,399.9,2799.2999999999997
+2025-09-20,Nordeste,Cadeira,Loja física,5,399.9,1999.5
+2025-09-21,Sudeste,Teclado,,2,129.9,259.8
+2025-09-22,Sul,Cadeira,E-commerce,6,899.9,5399.4
+2025-09-23,Sul,Mouse,E-commerce,4,129.9,519.6
+2025-09-24,Sudeste,Notebook,Loja física,7,899.9,6299.3
+2025-09-25,Sul,Mouse,E-commerce,6,89.9,539.4000000000001
+2025-09-26,Nordeste,Monitor,E-commerce,1,129.9,129.9
+2025-09-27,Nordeste,Monitor,E-commerce,3,899.9,2699.7
+2025-09-28,Sul,Cadeira,Loja física,7,129.9,909.3000000000001
+2025-09-29,Sul,Headset,E-commerce,1,129.9,129.9
+2025-09-30,Sul,Headset,E-commerce,3,899.9,2699.7
+2025-10-01,Centro-Oeste,Cadeira,E-commerce,4,899.9,3599.6
+2025-10-02,Sudeste,Monitor,E-commerce,2,49.9,99.8
+2025-10-03,Sudeste,Monitor,E-commerce,6,129.9,779.4000000000001
+2025-10-04,Sul,Monitor,Marketplace,5,399.9,1999.5
+2025-10-05,Sudeste,Mouse,Loja física,6,129.9,779.4000000000001
+2025-10-06,Sul,Monitor,Marketplace,4,129.9,519.6
+2025-10-07,Sul,Teclado,E-commerce,1,899.9,899.9
+2025-10-08,Centro-Oeste,Notebook,Loja física,5,129.9,649.5
+2025-10-09,Nordeste,Monitor,Loja física,2,2499.9,4999.8
+2025-10-10,Nordeste,Cadeira,Loja física,4,129.9,519.6
+2025-10-11,Norte,Notebook,E-commerce,5,2499.9,12499.5
+2025-10-12,Sudeste,Mouse,E-commerce,4,399.9,1599.6
+2025-10-13,Norte,Cadeira,E-commerce,4,899.9,3599.6
+2025-10-14,Sudeste,Notebook,E-commerce,2,129.9,259.8
+2025-10-15,Sudeste,Cadeira,E-commerce,7,2499.9,17499.3
+2025-10-16,Nordeste,Mouse,Loja física,3,2499.9,7499.700000000001
+2025-10-17,Sudeste,Teclado,Loja física,5,2499.9,12499.5
+2025-10-18,Norte,Mouse,E-commerce,2,89.9,179.8
+2025-10-19,Norte,Mouse,Loja física,4,49.9,199.6
+2025-10-20,Sul,Cadeira,Loja física,2,399.9,799.8
+2025-10-21,Nordeste,Headset,E-commerce,7,129.9,909.3000000000001
+2025-10-22,Nordeste,Monitor,E-commerce,3,89.9,269.70000000000005
+2025-10-23,Sudeste,Monitor,Marketplace,6,129.9,779.4000000000001
+2025-10-24,Sul,Teclado,Marketplace,5,129.9,649.5
+2025-10-25,Nordeste,Teclado,E-commerce,3,899.9,2699.7
+2025-10-26,Sudeste,Monitor,E-commerce,1,899.9,899.9
+2025-10-27,Norte,Headset,E-commerce,5,899.9,4499.5
+2025-10-28,Norte,Monitor,E-commerce,3,89.9,269.70000000000005
+2025-10-29,Sudeste,Headset,Loja física,4,129.9,519.6
+2025-10-30,Sudeste,Teclado,E-commerce,5,49.9,249.5
+2025-10-31,Sudeste,Notebook,Marketplace,5,399.9,1999.5
+2025-11-01,Sul,Cadeira,E-commerce,2,899.9,1799.8
+2025-11-02,Centro-Oeste,Teclado,E-commerce,4,899.9,3599.6
+2025-11-03,Sudeste,Teclado,E-commerce,1,129.9,129.9
+2025-11-04,Nordeste,Mouse,Loja física,6,129.9,779.4000000000001
+2025-11-05,Sul,Mouse,E-commerce,7,89.9,629.3000000000001
+2025-11-06,Nordeste,Mouse,Loja física,3,89.9,269.70000000000005
+2025-11-07,Sudeste,Cadeira,Loja física,2,899.9,1799.8
+2025-11-08,Norte,Mouse,Loja física,3,129.9,389.70000000000005
+2025-11-09,Norte,Headset,Marketplace,1,49.9,49.9
+2025-11-10,Centro-Oeste,Monitor,Loja física,1,399.9,399.9
+2025-11-11,Sul,Notebook,E-commerce,5,129.9,649.5
+2025-11-12,Sudeste,Teclado,Loja física,7,129.9,909.3000000000001
+2025-11-13,Sudeste,Headset,Marketplace,1,2499.9,2499.9
+2025-11-14,Nordeste,Notebook,Loja física,3,89.9,269.70000000000005
+2025-11-15,Nordeste,Headset,E-commerce,4,399.9,1599.6
+2025-11-16,Nordeste,Headset,Marketplace,4,899.9,3599.6
+2025-11-17,Sudeste,Teclado,Marketplace,5,129.9,649.5
+2025-11-18,Sul,Monitor,Loja física,6,899.9,5399.4
+2025-11-19,Sudeste,Mouse,Marketplace,3,129.9,389.70000000000005
+2025-11-20,Nordeste,Cadeira,E-commerce,3,899.9,2699.7
+2025-11-21,Centro-Oeste,Monitor,E-commerce,1,399.9,399.9
+2025-11-22,Sul,Cadeira,Loja física,7,89.9,629.3000000000001
+2025-11-23,Sudeste,Teclado,Loja física,3,399.9,1199.6999999999998
+2025-11-24,Sudeste,Teclado,E-commerce,2,2499.9,4999.8
+2025-11-25,Sudeste,Teclado,E-commerce,6,49.9,299.4
+2025-11-26,Nordeste,Notebook,E-commerce,1,89.9,89.9
+2025-11-27,Nordeste,Cadeira,E-commerce,2,399.9,799.8
+2025-11-28,Sul,Monitor,E-commerce,5,2499.9,12499.5
+2025-11-29,Norte,Monitor,Loja física,4,49.9,199.6
+2025-11-30,Norte,Headset,E-commerce,5,2499.9,12499.5
+2025-12-01,Norte,Headset,Loja física,4,129.9,519.6
+2025-12-02,Norte,Headset,E-commerce,5,129.9,649.5
+2025-12-03,Sul,Teclado,E-commerce,3,899.9,2699.7
+2025-12-04,Sul,Monitor,,2,89.9,179.8
+2025-12-05,Sudeste,Cadeira,Loja física,4,129.9,519.6
+2025-12-06,Norte,Teclado,Loja física,1,2499.9,2499.9
+2025-12-07,Sudeste,Notebook,Loja física,2,89.9,179.8
+2025-12-08,Sudeste,Headset,Loja física,1,129.9,129.9
+2025-12-09,Nordeste,Teclado,Loja física,2,899.9,1799.8
+2025-12-10,Sudeste,Teclado,Marketplace,2,399.9,799.8
+2025-12-11,Nordeste,Notebook,Loja física,5,899.9,4499.5
+2025-12-12,Sudeste,Mouse,Loja física,4,49.9,199.6
+2025-12-13,Sudeste,Monitor,E-commerce,4,129.9,519.6
+2025-12-14,Norte,Cadeira,E-commerce,7,49.9,349.3
+2025-12-15,Nordeste,Mouse,E-commerce,2,49.9,99.8
+2025-12-16,Sudeste,Headset,Loja física,3,2499.9,7499.700000000001
+2025-12-17,Sudeste,Teclado,E-commerce,3,89.9,269.70000000000005
+2025-12-18,Sul,Notebook,Loja física,1,2499.9,2499.9
+2025-12-19,Sudeste,Notebook,Loja física,1,129.9,129.9
+2025-12-20,Nordeste,Monitor,Marketplace,5,49.9,249.5
+2025-12-21,Norte,Mouse,Loja física,2,399.9,799.8
+2025-12-22,Sudeste,Monitor,E-commerce,1,49.9,49.9
+2025-12-23,Norte,Teclado,E-commerce,1,399.9,399.9
+2025-12-24,Sudeste,Monitor,Loja física,6,2499.9,14999.400000000001
+2025-12-25,Centro-Oeste,Cadeira,Marketplace,2,2499.9,4999.8
+2025-12-26,Sudeste,Notebook,Loja física,5,89.9,449.5
+2025-12-27,Nordeste,Notebook,E-commerce,1,49.9,49.9
+2025-12-28,Sudeste,Headset,,5,899.9,4499.5
+2025-12-29,Sudeste,Headset,E-commerce,4,2499.9,9999.6
+2025-12-30,Sudeste,Teclado,Marketplace,5,2499.9,12499.5
+2025-12-31,Centro-Oeste,Cadeira,Loja física,3,89.9,269.70000000000005
+2026-01-01,Nordeste,Mouse,E-commerce,3,399.9,1199.6999999999998
+2026-01-02,Centro-Oeste,Monitor,Loja física,5,89.9,449.5
+2026-01-03,Centro-Oeste,Teclado,E-commerce,3,49.9,149.7
+2026-01-04,Nordeste,Headset,Marketplace,4,129.9,519.6
+2026-01-05,Norte,Monitor,Loja física,2,129.9,259.8
+2026-01-06,Norte,Headset,E-commerce,3,399.9,1199.6999999999998
+2026-01-07,Norte,Monitor,Loja física,3,2499.9,7499.700000000001
+2026-01-08,Norte,Mouse,E-commerce,5,399.9,1999.5
+2026-01-09,Sudeste,Teclado,E-commerce,4,2499.9,9999.6
+2026-01-10,Norte,Monitor,Marketplace,7,2499.9,17499.3
+2026-01-11,Nordeste,Cadeira,E-commerce,7,129.9,909.3000000000001
+2026-01-12,Sul,Notebook,Loja física,7,399.9,2799.2999999999997
+2026-01-13,Norte,Cadeira,Loja física,7,89.9,629.3000000000001
+2026-01-14,Sul,Cadeira,Loja física,2,2499.9,4999.8
+2026-01-15,Nordeste,Notebook,Loja física,5,899.9,4499.5
+2026-01-16,Norte,Cadeira,Loja física,5,899.9,4499.5
+2026-01-17,Sudeste,Monitor,Marketplace,6,89.9,539.4000000000001
+2026-01-18,Sudeste,Monitor,E-commerce,4,899.9,3599.6
+2026-01-19,Sul,Monitor,E-commerce,7,49.9,349.3
+2026-01-20,Sul,Notebook,Loja física,2,2499.9,4999.8
+2026-01-21,Sul,Cadeira,Marketplace,4,89.9,359.6
+2026-01-22,Nordeste,Notebook,E-commerce,7,399.9,2799.2999999999997
+2026-01-23,Nordeste,Monitor,Loja física,2,2499.9,4999.8
+2026-01-24,Sul,Cadeira,E-commerce,4,89.9,359.6
+2026-01-25,Sul,Cadeira,E-commerce,5,129.9,649.5
+2026-01-26,Centro-Oeste,Headset,Loja física,5,399.9,1999.5
+2026-01-27,Sudeste,Headset,E-commerce,1,129.9,129.9
+2026-01-28,Nordeste,Mouse,E-commerce,3,2499.9,7499.700000000001
+2026-01-29,Sul,Teclado,Loja física,7,399.9,2799.2999999999997
+2026-01-30,Nordeste,Headset,Marketplace,6,899.9,5399.4
+2026-01-31,Centro-Oeste,Notebook,Marketplace,4,89.9,359.6
+2026-02-01,Sul,Headset,E-commerce,6,2499.9,14999.400000000001
+2026-02-02,Sudeste,Mouse,E-commerce,1,49.9,49.9
+2026-02-03,Sul,Cadeira,E-commerce,3,399.9,1199.6999999999998
+2026-02-04,Sul,Mouse,E-commerce,4,399.9,1599.6
+2026-02-05,Norte,Cadeira,E-commerce,2,2499.9,4999.8
+2026-02-06,Centro-Oeste,Cadeira,Loja física,7,2499.9,17499.3
+2026-02-07,Sudeste,Teclado,E-commerce,3,129.9,389.70000000000005
+2026-02-08,Sul,Headset,Marketplace,5,899.9,4499.5
+2026-02-09,Nordeste,Notebook,E-commerce,1,129.9,129.9
+2026-02-10,Centro-Oeste,Notebook,Loja física,3,129.9,389.70000000000005
+2026-02-11,Nordeste,Monitor,E-commerce,7,899.9,6299.3
+2026-02-12,Norte,Cadeira,Loja física,3,49.9,149.7
+2026-02-13,Centro-Oeste,Notebook,Loja física,7,129.9,909.3000000000001
+2026-02-14,Norte,Teclado,Loja física,5,129.9,649.5
+2026-02-15,Nordeste,Cadeira,Loja física,4,399.9,1599.6
+2026-02-16,Centro-Oeste,Teclado,E-commerce,2,899.9,1799.8
+2026-02-17,Centro-Oeste,Notebook,E-commerce,5,89.9,449.5
+2026-02-18,Sudeste,Notebook,Loja física,2,49.9,99.8
+2026-02-19,Sudeste,Monitor,Marketplace,4,49.9,199.6
+2026-02-20,Sudeste,Notebook,Marketplace,3,899.9,2699.7
+2026-02-21,Nordeste,Cadeira,Marketplace,2,2499.9,4999.8
+2026-02-22,Nordeste,Cadeira,Loja física,1,2499.9,2499.9
+2026-02-23,Sudeste,Cadeira,E-commerce,1,399.9,399.9
+2026-02-24,Sul,Monitor,Marketplace,7,399.9,2799.2999999999997
+2026-02-25,Sul,Monitor,E-commerce,5,899.9,4499.5
+2026-02-26,Sul,Notebook,Loja física,4,399.9,1599.6
+2026-02-27,Norte,Mouse,Loja física,7,49.9,349.3
+2026-02-28,Sudeste,Mouse,E-commerce,5,49.9,249.5
+2026-03-01,Norte,Monitor,Marketplace,5,89.9,449.5
+2026-03-02,Sudeste,Notebook,E-commerce,7,2499.9,17499.3
+2026-03-03,Sudeste,Mouse,E-commerce,6,899.9,5399.4
+2026-03-04,Centro-Oeste,Notebook,Loja física,5,129.9,649.5
+2026-03-05,Nordeste,Notebook,E-commerce,6,2499.9,14999.400000000001
+2026-03-06,Norte,Notebook,Marketplace,1,129.9,129.9
+2026-03-07,Nordeste,Headset,E-commerce,1,89.9,89.9
+2026-03-08,Sul,Cadeira,E-commerce,5,89.9,449.5
+2026-03-09,Sudeste,Notebook,Marketplace,1,399.9,399.9
+2026-03-10,Norte,Headset,Loja física,4,89.9,359.6
+2026-03-11,Norte,Monitor,E-commerce,6,89.9,539.4000000000001
+2026-03-12,Sul,Mouse,Loja física,6,129.9,779.4000000000001
+2026-03-13,Norte,Cadeira,E-commerce,5,399.9,1999.5
+2026-03-14,Sul,Mouse,E-commerce,1,89.9,89.9
+2026-03-15,Sul,Cadeira,E-commerce,2,2499.9,4999.8
+2026-03-16,Norte,Mouse,E-commerce,7,89.9,629.3000000000001
+2026-03-17,Norte,Cadeira,E-commerce,7,399.9,2799.2999999999997
+2026-03-18,Centro-Oeste,Mouse,Marketplace,6,899.9,5399.4
+2026-03-19,Nordeste,Mouse,E-commerce,5,399.9,1999.5
+2026-03-20,Nordeste,Mouse,Loja física,5,129.9,649.5
+2026-03-21,Sul,Mouse,E-commerce,4,899.9,3599.6
+2026-03-22,Centro-Oeste,Monitor,E-commerce,3,2499.9,7499.700000000001
+2026-03-23,Centro-Oeste,Notebook,Loja física,3,49.9,149.7
+2026-03-24,Sul,Teclado,Marketplace,6,399.9,2399.3999999999996
+2026-03-25,Nordeste,Headset,Marketplace,7,129.9,909.3000000000001
+2026-03-26,Norte,Teclado,Loja física,4,2499.9,9999.6
+2026-03-27,Sul,Teclado,Marketplace,4,899.9,3599.6
+2026-03-28,Sudeste,Cadeira,Loja física,4,2499.9,9999.6
+2026-03-29,Sudeste,Notebook,Loja física,6,399.9,2399.3999999999996
+2026-03-30,Centro-Oeste,Cadeira,Loja física,3,89.9,269.70000000000005
+2026-03-31,Norte,Notebook,Marketplace,7,399.9,2799.2999999999997
+2026-04-01,Sudeste,Notebook,E-commerce,4,49.9,199.6
+2026-04-02,Norte,Mouse,Loja física,7,399.9,2799.2999999999997
+2026-04-03,Sudeste,Monitor,E-commerce,1,899.9,899.9
+2026-04-04,Norte,Mouse,E-commerce,5,899.9,4499.5
+2026-04-05,Norte,Monitor,Loja física,5,399.9,1999.5
+2026-04-06,Norte,Cadeira,Marketplace,7,899.9,6299.3
+2026-04-07,Sudeste,Monitor,Marketplace,2,89.9,179.8
+2026-04-08,Sul,Cadeira,,2,2499.9,4999.8
+2026-04-09,Sudeste,Teclado,Marketplace,6,399.9,2399.3999999999996
+2026-04-10,Centro-Oeste,Teclado,E-commerce,6,89.9,539.4000000000001
+2026-04-11,Nordeste,Monitor,Marketplace,5,2499.9,12499.5
+2026-04-12,Nordeste,Monitor,E-commerce,1,2499.9,2499.9
+2026-04-13,Sul,Cadeira,E-commerce,3,89.9,269.70000000000005
+2026-04-14,Nordeste,Mouse,Loja física,3,129.9,389.70000000000005
+2026-04-15,Centro-Oeste,Cadeira,Marketplace,6,399.9,2399.3999999999996
+2026-04-16,Norte,Mouse,E-commerce,1,2499.9,2499.9
+2026-04-17,Centro-Oeste,Teclado,Loja física,6,2499.9,14999.400000000001
+2026-04-18,Norte,Notebook,Loja física,3,899.9,2699.7
+2026-04-19,Centro-Oeste,Monitor,E-commerce,7,2499.9,17499.3
+2026-04-20,Sudeste,Mouse,E-commerce,6,89.9,539.4000000000001
+2026-04-21,Centro-Oeste,Cadeira,E-commerce,4,2499.9,9999.6
+2026-04-22,Norte,Teclado,Marketplace,7,129.9,909.3000000000001
+2026-04-23,Sudeste,Mouse,Loja física,6,399.9,2399.3999999999996
+2026-04-24,Centro-Oeste,Cadeira,E-commerce,5,399.9,1999.5
+2026-04-25,Sudeste,Monitor,Loja física,6,2499.9,14999.400000000001
+2026-04-26,Sudeste,Monitor,Marketplace,5,49.9,249.5
+2026-04-27,Sudeste,Headset,Marketplace,1,49.9,49.9
+2026-04-28,Sudeste,Notebook,E-commerce,3,89.9,269.70000000000005
+2026-04-29,Sudeste,Headset,E-commerce,7,49.9,349.3
+2026-04-30,Sudeste,Teclado,Loja física,7,89.9,629.3000000000001
+2026-05-01,Centro-Oeste,Mouse,E-commerce,2,899.9,1799.8
+2026-05-02,Norte,Teclado,Marketplace,2,89.9,179.8
+2026-05-03,Nordeste,Cadeira,E-commerce,3,49.9,149.7
+2026-05-04,Centro-Oeste,Monitor,E-commerce,2,2499.9,4999.8
+2026-05-05,Centro-Oeste,Headset,E-commerce,7,899.9,6299.3
+2026-05-06,Sudeste,Headset,Marketplace,6,49.9,299.4
+2026-05-07,Sudeste,Headset,Loja física,1,89.9,89.9
+2026-05-08,Nordeste,Teclado,Loja física,1,129.9,129.9
+2026-05-09,Nordeste,Monitor,E-commerce,3,399.9,1199.6999999999998
+2026-05-10,Sudeste,Mouse,Marketplace,2,49.9,99.8
+2026-05-11,Nordeste,Cadeira,Loja física,6,89.9,539.4000000000001
+2026-05-12,Sudeste,Mouse,Loja física,1,899.9,899.9
+2026-05-13,Norte,Teclado,Loja física,1,49.9,49.9
+2026-05-14,Centro-Oeste,Cadeira,Loja física,4,49.9,199.6
+2026-05-15,Centro-Oeste,Headset,E-commerce,0,399.9,0.0
+2026-05-16,Sudeste,Notebook,E-commerce,7,89.9,629.3000000000001
+2026-05-17,Sudeste,Teclado,E-commerce,1,129.9,129.9
+2026-05-18,Nordeste,Teclado,E-commerce,3,899.9,2699.7
+2026-05-19,Sul,Monitor,E-commerce,5,89.9,449.5
+2026-05-20,Sudeste,Mouse,Marketplace,5,899.9,4499.5
+2026-05-21,Nordeste,Teclado,E-commerce,6,49.9,299.4
+2026-05-22,Centro-Oeste,Teclado,Marketplace,1,399.9,399.9
+2026-05-23,Sul,Headset,E-commerce,1,399.9,399.9
+2026-05-24,Centro-Oeste,Headset,Loja física,7,2499.9,17499.3
+2026-05-25,Sul,Cadeira,E-commerce,1,129.9,129.9
+2026-05-26,Sudeste,Notebook,Loja física,3,399.9,1199.6999999999998
+2026-05-27,Sudeste,Monitor,E-commerce,4,49.9,199.6
+2026-05-28,Centro-Oeste,Notebook,Loja física,1,129.9,129.9
+2026-05-29,Sul,Cadeira,Loja física,1,89.9,89.9
+2026-05-30,Norte,Headset,Marketplace,7,399.9,2799.2999999999997
+2026-05-31,Norte,Mouse,Loja física,2,129.9,259.8
+2026-06-01,Nordeste,Headset,Marketplace,7,49.9,349.3
+2026-06-02,Sul,Monitor,Loja física,7,2499.9,17499.3
+2026-06-03,Centro-Oeste,Headset,E-commerce,3,899.9,2699.7
+2026-06-04,Nordeste,Monitor,E-commerce,6,899.9,5399.4
+2026-06-05,Sudeste,Monitor,E-commerce,1,49.9,49.9
+2026-06-06,Nordeste,Monitor,Loja física,7,49.9,349.3
+2026-06-07,Centro-Oeste,Cadeira,Loja física,7,899.9,6299.3
+2026-06-08,Sul,Monitor,Loja física,2,2499.9,4999.8
+2026-06-09,Sul,Monitor,Loja física,7,129.9,909.3000000000001
+2026-06-10,Sudeste,Mouse,E-commerce,5,899.9,4499.5
+2026-06-11,Sudeste,Notebook,Marketplace,6,49.9,299.4
+2026-06-12,Nordeste,Teclado,Marketplace,1,399.9,399.9
+2026-06-13,Norte,Notebook,E-commerce,1,89.9,89.9
+2026-06-14,Sul,Monitor,E-commerce,2,2499.9,4999.8
+2026-06-15,Sul,Mouse,E-commerce,3,2499.9,7499.700000000001
+2026-06-16,Centro-Oeste,Headset,Loja física,1,399.9,399.9
+2026-06-17,Centro-Oeste,Mouse,,5,399.9,1999.5
+2026-06-18,Sudeste,Monitor,E-commerce,1,49.9,49.9
+2026-06-19,Sul,Mouse,E-commerce,5,899.9,4499.5
+2026-06-20,Centro-Oeste,Mouse,Loja física,6,129.9,779.4000000000001
+2026-06-21,Sul,Monitor,E-commerce,6,2499.9,14999.400000000001
+2026-06-22,Nordeste,Cadeira,E-commerce,4,2499.9,9999.6
+2026-06-23,Sudeste,Mouse,Marketplace,4,399.9,1599.6
+2026-06-24,Nordeste,Teclado,E-commerce,5,899.9,4499.5
+2026-06-25,Centro-Oeste,Teclado,E-commerce,3,2499.9,7499.700000000001
+2026-06-26,Sudeste,Mouse,Marketplace,1,129.9,129.9
+2026-06-27,Nordeste,Cadeira,Loja física,7,399.9,2799.2999999999997
+2026-06-28,Sudeste,Headset,E-commerce,1,129.9,129.9
+2026-06-29,Sudeste,Monitor,Loja física,4,899.9,3599.6
+2026-06-30,Nordeste,Teclado,E-commerce,7,2499.9,17499.3
+2026-07-01,Norte,Headset,Marketplace,5,89.9,449.5
+2026-07-02,Sudeste,Mouse,Loja física,7,2499.9,17499.3
+2026-07-03,Sudeste,Headset,Marketplace,1,899.9,899.9
+2026-07-04,Sul,Notebook,Loja física,1,2499.9,2499.9
+2026-07-05,Sudeste,Teclado,Marketplace,3,2499.9,7499.700000000001
+2026-07-06,Sul,Mouse,E-commerce,2,49.9,99.8
+2026-07-07,Sudeste,Monitor,Marketplace,7,2499.9,17499.3
+2026-07-08,Sudeste,Cadeira,Loja física,4,2499.9,9999.6
+2026-07-09,Sul,Mouse,Marketplace,4,129.9,519.6
+2026-07-10,Sudeste,Monitor,E-commerce,2,89.9,179.8
+2026-07-11,Nordeste,Cadeira,Loja física,1,129.9,129.9
+2026-07-12,Norte,Cadeira,Marketplace,3,129.9,389.70000000000005
+2026-07-13,Sul,Mouse,Loja física,3,399.9,1199.6999999999998
+2026-07-14,Sudeste,Headset,Marketplace,4,49.9,199.6
+2026-07-15,Sul,Headset,Loja física,3,129.9,389.70000000000005
+2026-07-16,Nordeste,Cadeira,E-commerce,6,899.9,5399.4
+2026-07-17,Nordeste,Headset,E-commerce,2,899.9,1799.8
+2026-07-18,Norte,Notebook,Loja física,1,2499.9,2499.9
+2026-07-19,Nordeste,Cadeira,Loja física,6,399.9,2399.3999999999996
+2026-07-20,Sudeste,Cadeira,Loja física,2,49.9,99.8
+2026-07-21,Nordeste,Monitor,E-commerce,5,49.9,249.5
+2026-07-22,Sudeste,Headset,Loja física,7,2499.9,17499.3
+2026-07-23,Centro-Oeste,Cadeira,E-commerce,4,899.9,3599.6
+2026-07-24,Nordeste,Notebook,Loja física,3,89.9,269.70000000000005
+2026-07-25,Sudeste,Monitor,Loja física,5,399.9,1999.5
+2026-07-26,Sul,Mouse,E-commerce,3,2499.9,7499.700000000001
+2026-07-27,Nordeste,Cadeira,Loja física,6,399.9,2399.3999999999996
+2026-07-28,Sudeste,Notebook,Marketplace,1,899.9,899.9
+2026-07-29,Sul,Teclado,Marketplace,1,899.9,899.9
+2026-07-30,Centro-Oeste,Notebook,E-commerce,1,89.9,89.9
+2026-07-31,Nordeste,Notebook,E-commerce,3,89.9,269.70000000000005
+2026-08-01,Centro-Oeste,Monitor,Marketplace,5,49.9,249.5
+2026-08-02,Sudeste,Mouse,Loja física,1,399.9,399.9
+2026-08-03,Nordeste,Teclado,Loja física,5,399.9,1999.5
+2026-08-04,Sudeste,Headset,Loja física,3,899.9,2699.7
+2026-08-05,Centro-Oeste,Headset,E-commerce,6,49.9,299.4
+2026-08-06,Sudeste,Notebook,Loja física,5,2499.9,12499.5
+2026-08-07,Nordeste,Monitor,E-commerce,6,399.9,2399.3999999999996
+2026-08-08,Sudeste,Monitor,Marketplace,3,49.9,149.7
+2026-08-09,Nordeste,Headset,Marketplace,3,49.9,149.7
+2026-08-10,Norte,Teclado,E-commerce,4,899.9,3599.6
+2026-08-11,Nordeste,Mouse,Loja física,3,49.9,149.7
+2026-08-12,Nordeste,Teclado,Marketplace,3,89.9,269.70000000000005
+2026-08-13,Nordeste,Cadeira,E-commerce,2,89.9,179.8
+2026-08-14,Nordeste,Cadeira,Loja física,1,129.9,129.9
+2026-08-15,Sudeste,Mouse,Loja física,4,899.9,3599.6
+2026-08-16,Nordeste,Headset,Marketplace,7,2499.9,17499.3
+2026-08-17,Nordeste,Mouse,E-commerce,4,129.9,519.6
+2026-08-18,Centro-Oeste,Monitor,Marketplace,4,89.9,359.6
+2026-08-19,Sudeste,Cadeira,Marketplace,7,129.9,909.3000000000001
+2026-08-20,Sudeste,Notebook,E-commerce,2,899.9,1799.8
+2026-08-21,Nordeste,Notebook,E-commerce,6,899.9,5399.4
+2026-08-22,Nordeste,Headset,E-commerce,3,49.9,149.7
+2026-08-23,Norte,Monitor,Loja física,1,399.9,399.9
+2026-08-24,Nordeste,Teclado,E-commerce,5,49.9,249.5
+2026-08-25,Nordeste,Monitor,E-commerce,7,899.9,6299.3
+2026-08-26,Nordeste,Notebook,E-commerce,6,89.9,539.4000000000001
+2026-08-27,Norte,Notebook,Marketplace,7,2499.9,17499.3
+2026-08-28,Nordeste,Cadeira,E-commerce,3,89.9,269.70000000000005
+2026-08-29,Sudeste,Monitor,E-commerce,2,49.9,99.8
+2026-08-30,Nordeste,Monitor,E-commerce,7,2499.9,17499.3
+2026-08-31,Nordeste,Notebook,E-commerce,3,899.9,2699.7
+2026-09-01,Sudeste,Teclado,E-commerce,3,89.9,269.70000000000005
+2026-09-02,Sudeste,Headset,Loja física,2,899.9,1799.8
+2026-09-03,Norte,Headset,E-commerce,4,2499.9,9999.6
+2026-09-04,Sul,Monitor,Loja física,4,2499.9,9999.6
+2026-09-05,Sudeste,Headset,E-commerce,1,89.9,89.9
+2026-09-06,Norte,Notebook,E-commerce,1,899.9,899.9
+2026-09-07,Sul,Notebook,E-commerce,4,129.9,519.6
+2026-09-08,Centro-Oeste,Monitor,Marketplace,6,899.9,5399.4
+2026-09-09,Norte,Monitor,E-commerce,5,2499.9,12499.5
+2026-09-10,Nordeste,Cadeira,E-commerce,3,899.9,2699.7
+2026-09-11,Sul,Monitor,E-commerce,5,49.9,249.5
+2026-09-12,Sul,Teclado,E-commerce,3,129.9,389.70000000000005
+2026-09-13,Nordeste,Headset,Loja física,4,399.9,1599.6
+2026-09-14,Nordeste,Monitor,Loja física,1,49.9,49.9
+2026-09-15,Nordeste,Mouse,E-commerce,6,399.9,2399.3999999999996
+2026-09-16,Sudeste,Cadeira,E-commerce,1,89.9,89.9
+2026-09-17,Sudeste,Mouse,Loja física,5,399.9,1999.5
+2026-09-18,Nordeste,Notebook,Loja física,1,899.9,899.9
+2026-09-19,Sudeste,Headset,Loja física,4,399.9,1599.6
+2026-09-20,Sul,Monitor,Marketplace,6,2499.9,14999.400000000001
+2026-09-21,Norte,Mouse,Loja física,5,49.9,249.5
+2026-09-22,Nordeste,Headset,E-commerce,6,49.9,299.4
+2026-09-23,Sul,Notebook,Loja física,3,399.9,1199.6999999999998
+2026-09-24,Centro-Oeste,Teclado,E-commerce,1,49.9,49.9
+2026-09-25,Sudeste,Cadeira,Loja física,6,2499.9,14999.400000000001
+2026-09-26,Sudeste,Headset,Loja física,2,49.9,99.8
+2026-09-27,Norte,Headset,E-commerce,1,399.9,399.9
+2026-09-28,Sudeste,Teclado,Loja física,3,129.9,389.70000000000005
+2026-09-29,Sudeste,Headset,Loja física,6,129.9,779.4000000000001
+2026-09-30,Nordeste,Notebook,Loja física,5,89.9,449.5
+2026-10-01,Nordeste,Notebook,Loja física,3,49.9,149.7
+2026-10-02,Nordeste,Teclado,Loja física,2,399.9,799.8
+2026-10-03,Norte,Cadeira,Loja física,6,49.9,299.4
+2026-10-04,Nordeste,Monitor,Marketplace,7,899.9,6299.3
+2026-10-05,Nordeste,Mouse,E-commerce,7,2499.9,17499.3
+2026-10-06,Nordeste,Monitor,E-commerce,4,49.9,199.6
+2026-10-07,Norte,Headset,Loja física,1,49.9,49.9
+2026-10-08,Centro-Oeste,Mouse,Marketplace,5,129.9,649.5
+2026-10-09,Sudeste,Teclado,E-commerce,4,2499.9,9999.6
+2026-10-10,Sudeste,Teclado,Loja física,6,399.9,2399.3999999999996
+2026-10-11,Sul,Cadeira,E-commerce,7,49.9,349.3
+2026-10-12,Sudeste,Mouse,Loja física,7,129.9,909.3000000000001
+2026-10-13,Norte,Notebook,Loja física,7,89.9,629.3000000000001
+2026-10-14,Sudeste,Mouse,E-commerce,6,2499.9,14999.400000000001
+2026-10-15,Sudeste,Headset,Marketplace,7,129.9,909.3000000000001
+2026-10-16,Sul,Notebook,E-commerce,3,129.9,389.70000000000005
+2026-10-17,Sudeste,Teclado,E-commerce,6,129.9,779.4000000000001
+2026-10-18,Nordeste,Mouse,Marketplace,5,49.9,249.5
+2026-10-19,Nordeste,Monitor,Loja física,4,49.9,199.6
+2026-10-20,Nordeste,Cadeira,Loja física,5,89.9,449.5
+2026-10-21,Sudeste,Monitor,E-commerce,2,899.9,1799.8
+2026-10-22,Sudeste,Cadeira,E-commerce,7,899.9,6299.3
+2026-10-23,Nordeste,Headset,E-commerce,2,899.9,1799.8
+2026-10-24,Centro-Oeste,Monitor,Marketplace,1,2499.9,2499.9
+2026-10-25,Sudeste,Mouse,E-commerce,1,2499.9,2499.9
+2026-10-26,Nordeste,Mouse,E-commerce,2,89.9,179.8
+2026-10-27,Norte,Monitor,Loja física,6,2499.9,14999.400000000001
+2026-10-28,Nordeste,Mouse,Marketplace,5,899.9,4499.5
+2026-10-29,Nordeste,Headset,Marketplace,2,899.9,1799.8
+2026-10-30,Nordeste,Notebook,Marketplace,1,129.9,129.9
+2026-10-31,Nordeste,Headset,Loja física,2,2499.9,4999.8
+2026-11-01,Nordeste,Cadeira,E-commerce,6,49.9,299.4
+2026-11-02,Nordeste,Headset,Loja física,2,49.9,99.8
+2026-11-03,Centro-Oeste,Cadeira,Loja física,5,129.9,649.5
+2026-11-04,Norte,Mouse,Loja física,4,129.9,519.6
+2026-11-05,Sudeste,Notebook,E-commerce,6,129.9,779.4000000000001
+2026-11-06,Sudeste,Mouse,E-commerce,1,49.9,49.9
+2026-11-07,Centro-Oeste,Teclado,Loja física,5,899.9,4499.5
+2026-11-08,Norte,Mouse,E-commerce,2,129.9,259.8
+2026-11-09,Nordeste,Cadeira,E-commerce,2,89.9,179.8
+2026-11-10,Centro-Oeste,Mouse,E-commerce,4,129.9,519.6
+2026-11-11,Sul,Mouse,Loja física,1,399.9,399.9
+2026-11-12,Sul,Notebook,E-commerce,1,129.9,129.9
+2026-11-13,Nordeste,Mouse,E-commerce,3,49.9,149.7
+2026-11-14,Nordeste,Notebook,Loja física,1,2499.9,2499.9
+2026-11-15,Sudeste,Monitor,Loja física,4,129.9,519.6
+2026-11-16,Centro-Oeste,Teclado,E-commerce,7,2499.9,17499.3
+2026-11-17,Sudeste,Notebook,Marketplace,3,399.9,1199.6999999999998
+2026-11-18,Sudeste,Cadeira,E-commerce,3,89.9,269.70000000000005
+2026-11-19,Nordeste,Monitor,E-commerce,2,2499.9,4999.8
+2026-11-20,Sul,Notebook,,2,899.9,1799.8
+2026-11-21,Nordeste,Notebook,E-commerce,1,129.9,129.9
+2026-11-22,Nordeste,Teclado,Loja física,3,399.9,1199.6999999999998
+2026-11-23,Sudeste,Cadeira,E-commerce,2,399.9,799.8
+2026-11-24,Sudeste,Headset,Marketplace,4,2499.9,9999.6
+2026-11-25,Nordeste,Headset,E-commerce,2,89.9,179.8
+2026-11-26,Norte,Notebook,Marketplace,6,49.9,299.4
+2026-11-27,Sudeste,Mouse,E-commerce,6,129.9,779.4000000000001
+2026-11-28,Nordeste,Cadeira,,2,399.9,799.8
+2026-11-29,Sudeste,Monitor,Marketplace,3,89.9,269.70000000000005
+2026-11-30,Nordeste,Mouse,Loja física,7,899.9,6299.3
+2026-12-01,Sudeste,Mouse,E-commerce,7,399.9,2799.2999999999997
+2026-12-02,Sudeste,Cadeira,Loja física,3,89.9,269.70000000000005
+2026-12-03,Norte,Notebook,,5,49.9,249.5
+2026-12-04,Nordeste,Notebook,E-commerce,7,49.9,349.3
+2026-12-05,Nordeste,Notebook,Loja física,6,399.9,2399.3999999999996
+2026-12-06,Norte,Notebook,E-commerce,4,399.9,1599.6
+2026-12-07,Centro-Oeste,Headset,E-commerce,3,2499.9,7499.700000000001
+2026-12-08,Nordeste,Notebook,Loja física,1,129.9,129.9
+2026-12-09,Sul,Headset,Loja física,6,89.9,539.4000000000001
+2026-12-10,Nordeste,Headset,E-commerce,4,399.9,1599.6
+2026-12-11,Sudeste,Notebook,Loja física,4,129.9,519.6
+2026-12-12,Sul,Teclado,E-commerce,3,2499.9,7499.700000000001
+2026-12-13,Sudeste,Monitor,E-commerce,4,129.9,519.6
+2026-12-14,Sudeste,Mouse,Marketplace,3,399.9,1199.6999999999998
+2026-12-15,Sudeste,Headset,E-commerce,7,49.9,349.3
+2026-12-16,Nordeste,Cadeira,E-commerce,2,89.9,179.8
+2026-12-17,Centro-Oeste,Cadeira,E-commerce,6,89.9,539.4000000000001
+2026-12-18,Sul,Monitor,Loja física,5,49.9,249.5
+2026-12-19,Centro-Oeste,Cadeira,Loja física,2,399.9,799.8
+2026-12-20,Nordeste,Teclado,E-commerce,6,89.9,539.4000000000001
+2026-12-21,Sul,Cadeira,E-commerce,3,399.9,1199.6999999999998
+2026-12-22,Centro-Oeste,Mouse,E-commerce,6,2499.9,14999.400000000001
+2026-12-23,Nordeste,Mouse,Marketplace,7,399.9,2799.2999999999997
+2026-12-24,Norte,Headset,Marketplace,3,129.9,389.70000000000005
+2026-12-25,Sul,Notebook,Marketplace,2,49.9,99.8
+2026-12-26,Sudeste,Teclado,E-commerce,1,399.9,399.9
+2026-12-27,Sul,Headset,Loja física,1,2499.9,2499.9
+2026-12-28,Nordeste,Teclado,E-commerce,6,899.9,5399.4
+2026-12-29,Sul,Notebook,E-commerce,1,49.9,49.9
+2026-12-30,Nordeste,Cadeira,E-commerce,3,89.9,269.70000000000005
+2026-12-31,Nordeste,Cadeira,E-commerce,4,129.9,519.6
+2027-01-01,Nordeste,Notebook,E-commerce,3,89.9,269.70000000000005
+2027-01-02,Sul,Headset,E-commerce,4,2499.9,9999.6
+2027-01-03,Sudeste,Notebook,Loja física,2,2499.9,4999.8
+2027-01-04,Sudeste,Monitor,E-commerce,5,89.9,449.5
+2027-01-05,Nordeste,Mouse,Loja física,4,49.9,199.6
+2027-01-06,Sul,Headset,Marketplace,1,89.9,89.9
+2027-01-07,Nordeste,Teclado,Loja física,3,399.9,1199.6999999999998
+2027-01-08,Sul,Monitor,Loja física,2,89.9,179.8
+2027-01-09,Sudeste,Headset,Loja física,1,129.9,129.9
+2027-01-10,Nordeste,Notebook,E-commerce,2,129.9,259.8
+2027-01-11,Sudeste,Notebook,E-commerce,0,899.9,0.0
+2027-01-12,Nordeste,Notebook,Loja física,7,129.9,909.3000000000001
+2027-01-13,Sul,Notebook,Loja física,3,89.9,269.70000000000005
+2027-01-14,Sudeste,Teclado,E-commerce,6,129.9,779.4000000000001
+2027-01-15,Nordeste,Monitor,Loja física,3,49.9,149.7
+2027-01-16,Centro-Oeste,Cadeira,E-commerce,5,129.9,649.5
+2027-01-17,Nordeste,Mouse,E-commerce,3,399.9,1199.6999999999998
+2027-01-18,Sudeste,Teclado,E-commerce,6,49.9,299.4
+2027-01-19,Centro-Oeste,Teclado,Loja física,4,899.9,3599.6
+2027-01-20,Sudeste,Cadeira,Marketplace,2,399.9,799.8
+2027-01-21,Norte,Cadeira,E-commerce,6,89.9,539.4000000000001
+2027-01-22,Centro-Oeste,Mouse,E-commerce,1,89.9,89.9
+2027-01-23,Sudeste,Mouse,Loja física,5,89.9,449.5
+2027-01-24,Nordeste,Cadeira,E-commerce,4,399.9,1599.6
+2027-01-25,Nordeste,Notebook,Loja física,1,399.9,399.9
+2027-01-26,Sul,Teclado,E-commerce,1,399.9,399.9
+2027-01-27,Sudeste,Headset,Marketplace,5,49.9,249.5
+2027-01-28,Sudeste,Mouse,E-commerce,4,2499.9,9999.6
+2027-01-29,Centro-Oeste,Mouse,Loja física,7,49.9,349.3
+2027-01-30,Sul,Cadeira,Loja física,1,89.9,89.9
+2027-01-31,Nordeste,Monitor,E-commerce,1,2499.9,2499.9
+2027-02-01,Nordeste,Headset,Loja física,4,129.9,519.6
+2027-02-02,Nordeste,Headset,Loja física,3,89.9,269.70000000000005
+2027-02-03,Sul,Mouse,E-commerce,1,899.9,899.9
+2027-02-04,Norte,Notebook,E-commerce,2,49.9,99.8
+2027-02-05,Sudeste,Monitor,Loja física,4,399.9,1599.6
+2027-02-06,Sul,Headset,Marketplace,1,49.9,49.9
+2027-02-07,Sul,Mouse,Loja física,5,399.9,1999.5
+2027-02-08,Nordeste,Headset,Marketplace,6,2499.9,14999.400000000001
+2027-02-09,Sul,Monitor,Loja física,2,899.9,1799.8
+2027-02-10,Norte,Monitor,Marketplace,6,2499.9,14999.400000000001
+2027-02-11,Sul,Teclado,E-commerce,6,899.9,5399.4
+2027-02-12,Nordeste,Cadeira,Marketplace,1,49.9,49.9
+2027-02-13,Nordeste,Cadeira,Marketplace,2,399.9,799.8
+2027-02-14,Sul,Mouse,Loja física,2,2499.9,4999.8
+2027-02-15,Nordeste,Monitor,Marketplace,3,899.9,2699.7
+2027-02-16,Nordeste,Teclado,E-commerce,6,89.9,539.4000000000001
+2027-02-17,Sul,Teclado,E-commerce,2,89.9,179.8
+2027-02-18,Sul,Headset,Loja física,3,2499.9,7499.700000000001
+2027-02-19,Sudeste,Headset,E-commerce,4,399.9,1599.6
+2027-02-20,Sudeste,Teclado,Loja física,3,2499.9,7499.700000000001
+2027-02-21,Sudeste,Headset,E-commerce,5,49.9,249.5
+2027-02-22,Nordeste,Monitor,E-commerce,7,899.9,6299.3
+2027-02-23,Nordeste,Notebook,E-commerce,1,49.9,49.9
+2027-02-24,Nordeste,Monitor,Marketplace,4,89.9,359.6
+2027-02-25,Centro-Oeste,Teclado,E-commerce,7,899.9,6299.3
+2027-02-26,Sudeste,Teclado,Loja física,7,2499.9,17499.3
+2027-02-27,Sudeste,Monitor,Loja física,4,49.9,199.6
+2027-02-28,Sudeste,Headset,Loja física,5,129.9,649.5
+2027-03-01,Centro-Oeste,Headset,Loja física,3,399.9,1199.6999999999998
+2027-03-02,Nordeste,Cadeira,Loja física,1,399.9,399.9
+2027-03-03,Sudeste,Teclado,Loja física,3,129.9,389.70000000000005
+2027-03-04,Sudeste,Mouse,,2,89.9,179.8
+2027-03-05,Sudeste,Cadeira,E-commerce,3,899.9,2699.7
+2027-03-06,Norte,Headset,Loja física,4,399.9,1599.6
+2027-03-07,Sul,Monitor,E-commerce,1,129.9,129.9
+2027-03-08,Centro-Oeste,Headset,Loja física,3,2499.9,7499.700000000001
+2027-03-09,Sudeste,Monitor,E-commerce,1,129.9,129.9
+2027-03-10,Sudeste,Cadeira,E-commerce,1,89.9,89.9
+2027-03-11,Centro-Oeste,Teclado,E-commerce,2,89.9,179.8
+2027-03-12,Sul,Headset,E-commerce,2,49.9,99.8
+2027-03-13,Nordeste,Monitor,Marketplace,4,399.9,1599.6
+2027-03-14,Sudeste,Teclado,Marketplace,5,49.9,249.5
+2027-03-15,Sudeste,Mouse,E-commerce,7,129.9,909.3000000000001
+2027-03-16,Sudeste,Monitor,E-commerce,1,899.9,899.9
+2027-03-17,Sul,Cadeira,E-commerce,5,899.9,4499.5
+2027-03-18,Centro-Oeste,Mouse,Loja física,7,89.9,629.3000000000001
+2027-03-19,Centro-Oeste,Mouse,E-commerce,7,899.9,6299.3
+2027-03-20,Sudeste,Notebook,Loja física,4,899.9,3599.6
+2027-03-21,Norte,Headset,E-commerce,7,899.9,6299.3
+2027-03-22,Centro-Oeste,Monitor,E-commerce,7,129.9,909.3000000000001
+2027-03-23,Sul,Mouse,Loja física,1,899.9,899.9
+2027-03-24,Nordeste,Notebook,Marketplace,1,2499.9,2499.9
+2027-03-25,Centro-Oeste,Cadeira,Marketplace,6,899.9,5399.4
+2027-03-26,Sul,Teclado,E-commerce,5,899.9,4499.5
+2027-03-27,Sudeste,Monitor,E-commerce,3,49.9,149.7
+2027-03-28,Sudeste,Mouse,Marketplace,2,129.9,259.8
+2027-03-29,Nordeste,Headset,Loja física,3,89.9,269.70000000000005
+2027-03-30,Norte,Notebook,E-commerce,5,49.9,249.5
+2027-03-31,Nordeste,Mouse,Loja física,2,399.9,799.8
+2027-04-01,Sul,Headset,E-commerce,3,129.9,389.70000000000005
+2027-04-02,Norte,Mouse,Loja física,6,2499.9,14999.400000000001
+2027-04-03,Nordeste,Monitor,Marketplace,2,129.9,259.8
+2027-04-04,Nordeste,Monitor,Marketplace,1,399.9,399.9
+2027-04-05,Sudeste,Monitor,Loja física,3,399.9,1199.6999999999998
+2027-04-06,Centro-Oeste,Cadeira,E-commerce,2,399.9,799.8
+2027-04-07,Nordeste,Cadeira,Marketplace,6,89.9,539.4000000000001
+2027-04-08,Nordeste,Notebook,E-commerce,7,899.9,6299.3
+2027-04-09,Sul,Monitor,Marketplace,2,129.9,259.8
+2027-04-10,Sudeste,Headset,E-commerce,2,899.9,1799.8
+2027-04-11,Nordeste,Mouse,E-commerce,6,899.9,5399.4
+2027-04-12,Sudeste,Teclado,Loja física,7,2499.9,17499.3
+2027-04-13,Nordeste,Headset,Loja física,3,399.9,1199.6999999999998
+2027-04-14,Nordeste,Cadeira,E-commerce,4,89.9,359.6
+2027-04-15,Sudeste,Cadeira,E-commerce,3,2499.9,7499.700000000001
+2027-04-16,Sudeste,Headset,E-commerce,7,49.9,349.3
+2027-04-17,Centro-Oeste,Cadeira,E-commerce,5,89.9,449.5
+2027-04-18,Nordeste,Monitor,E-commerce,6,899.9,5399.4
+2027-04-19,Sudeste,Notebook,Marketplace,3,89.9,269.70000000000005
+2027-04-20,Sudeste,Mouse,Marketplace,2,399.9,799.8
+2027-04-21,Norte,Notebook,E-commerce,6,49.9,299.4
+2027-04-22,Sudeste,Mouse,Marketplace,1,399.9,399.9
+2027-04-23,Nordeste,Mouse,E-commerce,7,49.9,349.3
+2027-04-24,Centro-Oeste,Notebook,E-commerce,3,2499.9,7499.700000000001
+2027-04-25,Nordeste,Headset,Marketplace,6,899.9,5399.4
+2027-04-26,Sudeste,Mouse,Loja física,3,49.9,149.7
+2027-04-27,Norte,Notebook,Loja física,6,49.9,299.4
+2027-04-28,Centro-Oeste,Mouse,Marketplace,2,49.9,99.8
+2027-04-29,Sudeste,Teclado,E-commerce,1,89.9,89.9
+2027-04-30,Sudeste,Headset,Marketplace,1,2499.9,2499.9
+2027-05-01,Norte,Monitor,Marketplace,5,89.9,449.5
+2027-05-02,Sul,Mouse,Loja física,6,899.9,5399.4
+2027-05-03,Nordeste,Teclado,Marketplace,3,49.9,149.7
+2027-05-04,Centro-Oeste,Monitor,E-commerce,1,2499.9,2499.9
+2027-05-05,Nordeste,Monitor,E-commerce,7,2499.9,17499.3
+2027-05-06,Nordeste,Mouse,,1,129.9,129.9
+2027-05-07,Norte,Notebook,Marketplace,4,899.9,3599.6
+2027-05-08,Sudeste,Mouse,Loja física,4,2499.9,9999.6
+2027-05-09,Sudeste,Teclado,E-commerce,1,49.9,49.9
+2027-05-10,Norte,Monitor,E-commerce,6,49.9,299.4
+2027-05-11,Sul,Mouse,E-commerce,5,2499.9,12499.5
+2027-05-12,Sudeste,Notebook,E-commerce,1,89.9,89.9
+2027-05-13,Sudeste,Mouse,Loja física,2,899.9,1799.8
+2027-05-14,Sudeste,Headset,Loja física,3,49.9,149.7
+2027-05-15,Sudeste,Notebook,E-commerce,5,2499.9,12499.5
+2027-05-16,Sudeste,Teclado,Marketplace,2,49.9,99.8
+2027-05-17,Nordeste,Monitor,Loja física,5,2499.9,12499.5
+2027-05-18,Nordeste,Mouse,Loja física,2,899.9,1799.8
+2027-05-19,Sul,Notebook,Marketplace,3,2499.9,7499.700000000001
+2027-05-20,Centro-Oeste,Headset,Loja física,3,129.9,389.70000000000005
+2027-05-21,Nordeste,Notebook,Marketplace,4,2499.9,9999.6
+2027-05-22,Nordeste,Cadeira,E-commerce,6,2499.9,14999.400000000001
+2027-05-23,Sudeste,Headset,Marketplace,2,899.9,1799.8
+2027-05-24,Sudeste,Teclado,Loja física,4,2499.9,9999.6
+2027-05-25,Norte,Monitor,Loja física,2,899.9,1799.8
+2027-05-26,Nordeste,Teclado,E-commerce,4,129.9,519.6
+2027-05-27,Sul,Mouse,Marketplace,3,899.9,2699.7
+2027-05-28,Sudeste,Notebook,E-commerce,5,49.9,249.5
+2027-05-29,Norte,Cadeira,Loja física,7,899.9,6299.3
+2027-05-30,Nordeste,Headset,E-commerce,4,129.9,519.6
+2027-05-31,Nordeste,Headset,E-commerce,2,399.9,799.8
+2027-06-01,Sudeste,Notebook,E-commerce,2,2499.9,4999.8
+2027-06-02,Norte,Cadeira,E-commerce,7,899.9,6299.3
+2027-06-03,Norte,Notebook,Marketplace,6,2499.9,14999.400000000001
+2027-06-04,Sul,Mouse,E-commerce,3,89.9,269.70000000000005
+2027-06-05,Nordeste,Teclado,Loja física,2,49.9,99.8
+2027-06-06,Sudeste,Headset,E-commerce,1,49.9,49.9
+2027-06-07,Nordeste,Mouse,Loja física,5,89.9,449.5
+2027-06-08,Norte,Teclado,E-commerce,4,89.9,359.6
+2027-06-09,Nordeste,Mouse,E-commerce,6,899.9,5399.4
+2027-06-10,Sul,Cadeira,Loja física,7,89.9,629.3000000000001
+2027-06-11,Sul,Headset,Loja física,5,399.9,1999.5
+2027-06-12,Sul,Notebook,Loja física,3,2499.9,7499.700000000001
+2027-06-13,Nordeste,Notebook,Marketplace,6,2499.9,14999.400000000001
+2027-06-14,Sudeste,Teclado,Marketplace,4,129.9,519.6
+2027-06-15,Nordeste,Monitor,Loja física,4,89.9,359.6
+2027-06-16,Nordeste,Cadeira,Marketplace,7,89.9,629.3000000000001
+2027-06-17,Centro-Oeste,Teclado,E-commerce,1,399.9,399.9
+2027-06-18,Norte,Monitor,Loja física,7,49.9,349.3
+2027-06-19,Norte,Mouse,Loja física,3,49.9,149.7
+2027-06-20,Nordeste,Cadeira,E-commerce,6,2499.9,14999.400000000001
+2027-06-21,Norte,Mouse,E-commerce,6,2499.9,14999.400000000001
+2027-06-22,Nordeste,Headset,E-commerce,2,899.9,1799.8
+2027-06-23,Sudeste,Cadeira,Loja física,1,399.9,399.9
+2027-06-24,Sudeste,Monitor,Loja física,1,129.9,129.9
+2027-06-25,Centro-Oeste,Headset,E-commerce,6,129.9,779.4000000000001
+2027-06-26,Sul,Notebook,Loja física,6,399.9,2399.3999999999996
+2027-06-27,Nordeste,Monitor,Loja física,5,129.9,649.5
+2027-06-28,Nordeste,Teclado,Loja física,5,49.9,249.5
+2027-06-29,Nordeste,Notebook,Marketplace,5,129.9,649.5
+2027-06-30,Sudeste,Notebook,Marketplace,1,129.9,129.9
+2027-07-01,Nordeste,Teclado,E-commerce,2,399.9,799.8
+2027-07-02,Sudeste,Cadeira,Marketplace,4,399.9,1599.6
+2027-07-03,Sudeste,Notebook,Loja física,5,129.9,649.5
+2027-07-04,Sudeste,Monitor,E-commerce,2,89.9,179.8
+2027-07-05,Sudeste,Headset,Loja física,7,399.9,2799.2999999999997
+2027-07-06,Nordeste,Notebook,E-commerce,0,899.9,0.0
+2027-07-07,Centro-Oeste,Monitor,Marketplace,5,899.9,4499.5
+2027-07-08,Sul,Mouse,E-commerce,7,49.9,349.3
+2027-07-09,Nordeste,Monitor,E-commerce,4,129.9,519.6
+2027-07-10,Sul,Headset,E-commerce,3,89.9,269.70000000000005
+2027-07-11,Sudeste,Monitor,Loja física,3,49.9,149.7
+2027-07-12,Centro-Oeste,Teclado,Marketplace,4,129.9,519.6
+2027-07-13,Sul,Headset,E-commerce,5,399.9,1999.5
+2027-07-14,Sudeste,Cadeira,E-commerce,1,899.9,899.9
+2027-07-15,Norte,Mouse,E-commerce,4,2499.9,9999.6
+2027-07-16,Nordeste,Teclado,E-commerce,4,89.9,359.6
+2027-07-17,Sudeste,Cadeira,Loja física,4,2499.9,9999.6
+2027-07-18,Sudeste,Monitor,E-commerce,3,899.9,2699.7
+2027-07-19,Nordeste,Headset,Loja física,2,2499.9,4999.8
+2027-07-20,Nordeste,Mouse,E-commerce,7,399.9,2799.2999999999997
+2027-07-21,Sul,Teclado,Marketplace,1,129.9,129.9
+2027-07-22,Centro-Oeste,Cadeira,Marketplace,0,399.9,0.0
+2027-07-23,Sudeste,Cadeira,E-commerce,5,2499.9,12499.5
+2027-07-24,Nordeste,Mouse,E-commerce,7,399.9,2799.2999999999997
+2027-07-25,Nordeste,Monitor,Loja física,2,899.9,1799.8
+2027-07-26,Norte,Mouse,E-commerce,4,89.9,359.6
+2027-07-27,Centro-Oeste,Cadeira,Loja física,1,399.9,399.9
+2027-07-28,Norte,Notebook,E-commerce,5,899.9,4499.5
+2027-07-29,Sudeste,Teclado,Loja física,7,89.9,629.3000000000001
+2027-07-30,Nordeste,Mouse,Loja física,6,129.9,779.4000000000001
+2027-07-31,Sudeste,Cadeira,E-commerce,7,2499.9,17499.3
+2027-08-01,Sudeste,Monitor,Loja física,5,129.9,649.5
+2027-08-02,Sul,Cadeira,E-commerce,4,49.9,199.6
+2027-08-03,Nordeste,Monitor,Loja física,6,899.9,5399.4
+2027-08-04,Norte,Mouse,Loja física,2,89.9,179.8
+2027-08-05,Nordeste,Monitor,E-commerce,1,399.9,399.9
+2027-08-06,Centro-Oeste,Headset,Loja física,2,129.9,259.8
+2027-08-07,Sul,Headset,Loja física,2,89.9,179.8
+2027-08-08,Sudeste,Headset,E-commerce,7,899.9,6299.3
+2027-08-09,Sudeste,Notebook,Loja física,1,49.9,49.9
+2027-08-10,Sudeste,Mouse,Marketplace,1,129.9,129.9
+2027-08-11,Nordeste,Cadeira,Loja física,5,2499.9,12499.5
+2027-08-12,Centro-Oeste,Cadeira,Loja física,5,89.9,449.5
+2027-08-13,Sudeste,Notebook,E-commerce,1,2499.9,2499.9
+2027-08-14,Nordeste,Monitor,Loja física,6,89.9,539.4000000000001
+2027-08-15,Sudeste,Notebook,Loja física,3,89.9,269.70000000000005
+2027-08-16,Norte,Monitor,E-commerce,5,899.9,4499.5
+2027-08-17,Nordeste,Monitor,Loja física,3,899.9,2699.7
+2027-08-18,Sul,Teclado,Marketplace,7,899.9,6299.3
+2027-08-19,Norte,Cadeira,Loja física,6,399.9,2399.3999999999996
+2027-08-20,Sudeste,Headset,E-commerce,1,89.9,89.9
+2027-08-21,Nordeste,Monitor,Marketplace,6,129.9,779.4000000000001
+2027-08-22,Nordeste,Teclado,E-commerce,5,2499.9,12499.5
+2027-08-23,Nordeste,Cadeira,Marketplace,2,899.9,1799.8
+2027-08-24,Nordeste,Headset,E-commerce,7,899.9,6299.3
+2027-08-25,Sul,Monitor,Marketplace,1,2499.9,2499.9
+2027-08-26,Nordeste,Monitor,Loja física,4,2499.9,9999.6
+2027-08-27,Sudeste,Notebook,E-commerce,7,89.9,629.3000000000001
+2027-08-28,Sudeste,Notebook,E-commerce,3,899.9,2699.7
+2027-08-29,Sudeste,Cadeira,E-commerce,6,2499.9,14999.400000000001
+2027-08-30,Centro-Oeste,Headset,E-commerce,1,399.9,399.9
+2027-08-31,Sul,Monitor,E-commerce,7,399.9,2799.2999999999997
+2027-09-01,Nordeste,Cadeira,Loja física,6,899.9,5399.4
+2027-09-02,Norte,Cadeira,Loja física,1,2499.9,2499.9
+2027-09-03,Nordeste,Mouse,E-commerce,5,89.9,449.5
+2027-09-04,Sudeste,Notebook,E-commerce,7,89.9,629.3000000000001
+2027-09-05,Norte,Headset,Marketplace,5,89.9,449.5
+2027-09-06,Sudeste,Monitor,E-commerce,7,49.9,349.3
+2027-09-07,Sudeste,Cadeira,Marketplace,5,899.9,4499.5
+2027-09-08,Nordeste,Monitor,E-commerce,6,89.9,539.4000000000001
+2027-09-09,Sul,Mouse,Loja física,4,399.9,1599.6
+2027-09-10,Norte,Headset,Loja física,7,2499.9,17499.3
+2027-09-11,Norte,Cadeira,E-commerce,7,129.9,909.3000000000001
+2027-09-12,Sul,Monitor,E-commerce,5,129.9,649.5
+2027-09-13,Sudeste,Notebook,Loja física,1,89.9,89.9
+2027-09-14,Sudeste,Mouse,E-commerce,7,129.9,909.3000000000001
+2027-09-15,Sudeste,Headset,Marketplace,5,129.9,649.5
+2027-09-16,Nordeste,Mouse,E-commerce,2,49.9,99.8
+2027-09-17,Sul,Notebook,E-commerce,5,399.9,1999.5
+2027-09-18,Sul,Headset,E-commerce,6,399.9,2399.3999999999996
+2027-09-19,Sudeste,Mouse,Loja física,4,49.9,199.6
+2027-09-20,Nordeste,Teclado,E-commerce,2,49.9,99.8
+2027-09-21,Sudeste,Notebook,E-commerce,6,129.9,779.4000000000001
+2027-09-22,Nordeste,Notebook,Loja física,6,899.9,5399.4
+2027-09-23,Norte,Notebook,E-commerce,6,2499.9,14999.400000000001
+2027-09-24,Centro-Oeste,Teclado,E-commerce,1,2499.9,2499.9
+2027-09-25,Nordeste,Teclado,Marketplace,6,129.9,779.4000000000001
+2027-09-26,Centro-Oeste,Monitor,Marketplace,1,2499.9,2499.9
+2027-09-27,Sudeste,Cadeira,Loja física,6,49.9,299.4

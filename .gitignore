@@ -1,0 +1,8 @@
+.DS_Store
+tests
+.venv
+venv
+*venv
+*.venv
+*/.DS_Store
+~$*.xls*
